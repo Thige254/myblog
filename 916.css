@@ -1,0 +1,7 @@
+.post .meta li img.author {
+    margin-right: 6px;
+    vertical-align: middle;
+    border-radius: 50%;  /* Makes the image round */
+    width: 40px;         /* Adjust based on your preference */
+    height: 40px;        /* Adjust based on your preference */
+}
